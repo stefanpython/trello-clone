@@ -1,5 +1,5 @@
-import { Box, BoxProps } from '@chakra-ui/react';
-import { TrelloIcon } from 'lucide-react';
+import { Box, BoxProps } from "@chakra-ui/react";
+import { TrelloIcon } from "lucide-react";
 
 interface TrelloLogoProps extends BoxProps {
   size?: number;
