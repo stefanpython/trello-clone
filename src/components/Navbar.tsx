@@ -248,6 +248,7 @@ export default function Navbar() {
                 <Portal>
                   <MenuList
                     w="100vw"
+                    h={"100vh"}
                     maxW="100vw"
                     mt={2}
                     py={4}
