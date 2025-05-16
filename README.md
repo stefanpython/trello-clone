@@ -23,44 +23,44 @@ This project replicates the top part of Trello’s landing page, focusing on the
 
 Make sure you have Node.js and npm/yarn installed:
 
-\`\`\`bash
+```bash
 node -v
 npm -v
-\`\`\`
+```
 
 ### Installation
 
 1. Clone the repo:
 
-\`\`\`bash
+```bash
 git clone https://github.com/yourusername/trello-clone.git
-\`\`\`
+```
 
 2. Navigate to the project folder:
 
-\`\`\`bash
+```bash
 cd trello-clone
-\`\`\`
+```
 
 3. Install dependencies:
 
-\`\`\`bash
+```bash
 npm install
 
 # or
 
 yarn install
-\`\`\`
+```
 
 4. Run the development server:
 
-\`\`\`bash
+```bash
 npm run dev
 
 # or
 
 yarn dev
-\`\`\`
+```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the app live! 🎉
 
